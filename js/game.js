@@ -41,8 +41,7 @@ class Game{
 
                 Player.getPlayerInfo();
 //Call the getPlayerAtEnd() function in the play() function of game.js.
-                update.getplayerAtEnd();
-   
+player.getPlayerAtEnd();
 
 
                 image(back_img, 0, 0, 1000, 800);
@@ -136,6 +135,8 @@ class Game{
     }
     showRank() {
       //create swal function
+   
+        
         }
 
 
